@@ -13,4 +13,6 @@ Estos dos temas engloban lo siguientes:
 ### **Gestion de procesos**
 
 En el cual hemos aprendido a instalar un simulador para ubuntu el cual se ve tal que asi:
-![alt text](HJLKO.png)
+![Texto alternativo](Captura de pantalla de 2024-11-27 08-26-03.png
+)
+
