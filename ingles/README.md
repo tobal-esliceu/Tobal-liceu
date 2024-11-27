@@ -1,3 +1,3 @@
 # Ingles
-## profesor
+## Profesor
 Afran

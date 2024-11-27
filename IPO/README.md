@@ -1,3 +1,3 @@
 # IPO
-## preofesor
+## Preofesora
 Aurara
