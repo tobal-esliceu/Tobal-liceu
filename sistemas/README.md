@@ -12,7 +12,16 @@ Estos dos temas engloban lo siguientes:
 
 ### **Gestion de procesos**
 
-En el cual hemos aprendido a instalar un simulador para ubuntu el cual se ve tal que asi:
-![Texto alternativo](Captura de pantalla de 2024-11-27 08-26-03.png
-)
+Aquí se cubren conceptos relacionados con cómo los sistemas operativos manejan los procesos:
+
+- Planificación de procesos: FIFO, Round Robin, Prioridades.
+- Estados de los procesos: creación, ejecución, espera, terminación.
+
+### **Representacion de la informacio**
+
+Aqui se cubren conceptos relacionados con cómo se representan los datos en informática
+
+- Sistemas de numeración: binario, octal, decimal y hexadecimal.
+- Codificación de datos: ASCII, Unicode.
+- Operaciones básicas: suma binaria, conversión entre sistemas.
 
