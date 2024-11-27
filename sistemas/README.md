@@ -1,6 +1,6 @@
-# sistemas
-## profesor
-guillem
+# Sistemas
+## Profesor
+Guillem
 
 ### SISTEMAS 
 En sistemas operativos lo que hemos dado son los siguentes temas:
