@@ -26,4 +26,3 @@ Aqui se cubren conceptos relacionados con cómo se representan los datos en info
 - **Operaciones básicas:** suma binaria, conversión entre sistemas.
 
 Estos 5 temas son lo que hemos dado en sistemas operativos durante este primer trimestre.
-hola
