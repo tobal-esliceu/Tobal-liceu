@@ -17,7 +17,7 @@ Aquí se cubren conceptos relacionados con cómo los sistemas operativos manejan
 - **Planificación de procesos:** FIFO, Round Robin, Prioridades.
 - **Estados de los procesos:** creación, ejecución, espera, terminación.
 
-### **Representacion de la informacio**
+#### **Representacion de la informacio**
 
 Aqui se cubren conceptos relacionados con cómo se representan los datos en informática
 
