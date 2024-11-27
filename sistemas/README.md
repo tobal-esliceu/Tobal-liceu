@@ -25,4 +25,4 @@ Aqui se cubren conceptos relacionados con cómo se representan los datos en info
 - **Codificación de datos:** ASCII, Unicode.
 - **Operaciones básicas:** suma binaria, conversión entre sistemas.
 
-Estos 5 temas son lo que hemos dado en sistemas operativos durante este primer trimestre.
+Estos 5 temas son lo que hemos dado en sistemas operativos durante este primer trimestre. 
