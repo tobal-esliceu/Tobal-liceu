@@ -3,3 +3,4 @@
 Guillem
 ### EXAMENES
 Examen dia:**27 de noviembre** sobre repositorios
+fecha por confirmar
