@@ -1,6 +1,6 @@
-# sistemas
-## profesor
-guillem
+# Sistemas
+## Profesor
+Guillem
 
 ### SISTEMAS 
 En sistemas operativos lo que hemos dado son los siguentes temas:
@@ -23,6 +23,6 @@ Aqui se cubren conceptos relacionados con cómo se representan los datos en info
 
 - **Sistemas de numeración:** binario, octal, decimal y hexadecimal.
 - **Codificación de datos:** ASCII, Unicode.
-- **Operaciones básicas:** suma binaria, conversión entre sistemas.
+- **Operaciones básicas:** suma binaria, conversión entre sistemas. 
 
 Estos 5 temas son lo que hemos dado en sistemas operativos durante este primer trimestre.
